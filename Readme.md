@@ -1,4 +1,4 @@
-# readme
+# example for execuate wikit.exe
 Cambridge Advanced Learner's Dictionary 4th -> Cambridge4
 
 '''
