@@ -1,6 +1,13 @@
-Whole
-<font size=5>whole</font>
-<br/>
-<font face="Kingsoft Phonetic Plain, Tahoma">(hol,hJl; houl)</font>
+
+
+
+friction
+<font size = 4>
+    <a href="https://bigthink.com/the-well/how-to-change-habits/"> 
+        1. Bad habits can be challenging to change due to friction — that is, the time and effort it takes to overcome them. 
+    </a>
 </font>
+
 </>
+
+<a href="url">  </a>
